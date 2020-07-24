@@ -4,7 +4,7 @@ Cloning google chrome app [Momentum](https://chrome.google.com/webstore/detail/m
 
 Click this to check ☞ https://blissful-goldstine-c0be01.netlify.app/
 
-
+   
 Features
 ---------
 - [x] Clock
@@ -16,7 +16,7 @@ Features
 - [x] Random background picture
 
 
-
+   
 고려했던 부분
 ------------
 list의 아이디를 단순하게 list.length+1로 설정   

@@ -1,0 +1,28 @@
+.toDo {
+  font-size: 20px;
+}
+
+.toDoBtn {
+  margin-left: 10px;
+  cursor: pointer;
+  border: 0;
+  background-color: rgba(255, 255, 255, 0);
+}
+
+.toDoList {
+  overflow-y: scroll;
+  width: 20em;
+  height: 12em;
+  -ms-overflow-style: none;
+}
+
+.toDoList::-webkit-scrollbar {
+  display: none;
+}
+
+.toDoList ul {
+  margin: 0px;
+  padding: 0px;
+  width: 400px;
+  height: 400px;
+}

@@ -8,12 +8,12 @@ Click this to check ☞ https://blissful-goldstine-c0be01.netlify.app/
 Features
 ---------
 - [x] Clock
-- [x] Remembering user name
-- [x] To do list
-- [x] Scrolling to do list
+- [x] Get user name
+- [x] To do list (+scroll available)
 - [x] Temperature
 - [x] Location
 - [x] Random background picture
+- [x] Offline support (by using local storage)
 
 
    
